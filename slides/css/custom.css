@@ -1,0 +1,4 @@
+    .reveal section img.noborder {
+        border: 0;
+        box-shadow: none;
+    }

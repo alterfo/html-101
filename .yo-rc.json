@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Основы верстки",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "basichtml",
+    "githubRepository": "example_repository"
+  }
+}

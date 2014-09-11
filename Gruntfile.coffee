@@ -7,7 +7,7 @@ module.exports = (grunt) ->
 
             livereload:
                 options:
-                    livereload: true
+                    livereload: 35730
                 files: [
                     'index.html'
                     'slides/{,*/}*.{md,html}'
@@ -40,7 +40,7 @@ module.exports = (grunt) ->
                     hostname: 'localhost'
                     base: '.'
                     open: true
-                    livereload: true
+                    livereload: 35730
 
         coffeelint:
 

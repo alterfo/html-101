@@ -42,6 +42,7 @@ Note: любые изменения это дискомфорт.
 ## Креативность
 
 <img src="slides/i/brick.png" alt="" class="fragment current-visible fade-in fade-out">
+<span class="fragment current-visible fade-in fade-out">&nbsp;</span>
 <img src="slides/i/cover.jpg" alt="" class="fragment current-visible fade-in fade-out">
 
 
